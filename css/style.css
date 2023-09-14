@@ -251,6 +251,10 @@ footer p{
     .sobre p{
         font-size: 110%;
     }
+    iframe{
+        height: 230px;
+    }
+
 
 }
 @media (min-width:992px){
@@ -267,12 +271,17 @@ footer p{
     .chamadas p{
         font-size: 80%;
     }
-
     .valores h2{
         font-size: xx-large;
     }
     .valores p{
         font-size: smaller;
+    }
+    .rede img{
+        width: 10%;
+    }
+    iframe{
+        height: 430px;
     }
 
 }
